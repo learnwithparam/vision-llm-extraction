@@ -34,6 +34,8 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) for the interactiv
 2. **Confidence Scores** - Extraction confidence validation
 3. **Line Item Categorization** - Automatic categorization pipeline
 
-## About
+## Learn more
 
-Created by [learnwithparam.com](https://learnwithparam.com) - Learn AI Engineering through hands-on projects.
+- Start the course: [learnwithparam.com/courses/vision-llm-data-extraction](https://www.learnwithparam.com/courses/vision-llm-data-extraction)
+- AI Bootcamp for Software Engineers: [learnwithparam.com/ai-bootcamp](https://www.learnwithparam.com/ai-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
